@@ -11,7 +11,7 @@
 
 ---
 
-I'm a machine learning engineer with a background in software development, now focused on building production ML and AI systems. I've worked across the stack — from training and fine-tuning models to deploying and monitoring them in real environments.
+I'm a machine learning engineer with a background in software development, now focused on building production ML and AI systems. I've worked across the stack - from training and fine-tuning models to deploying and monitoring them in real environments.
 
 My sweet spot is the bridge between ML research and engineering: taking a model from experiment to reliable, serving infrastructure with proper pipelines, versioning, and observability around it.
 
